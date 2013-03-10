@@ -1,0 +1,4 @@
+This snippet is meant to provide
+
+- an insight in how to build dependencies in simple c++ class structure
+- a rather rather generic make file that could be used as a basis for other c++ projects
